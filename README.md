@@ -32,9 +32,23 @@ _Machine Learning Project Team Member at P-laying\_soccer_        &nbsp;&nbsp;&n
 <a href="https://linkedin.com/in/aseratawya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aseratawya" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">GitHub Stats:</h3>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Aser-Abdelfatah&theme=dark&mode=weekly&hide_current_streak=true" alt="aser-abdelfatah"  width="400" height="305" />
-<img src="https://github-readme-stats.vercel.app/api?username=aser-abdelfatah&show_icons=true&locale=en" alt="aser-abdelfatah"  width="400" height="300"  />
+  <a href="https://github.com/Aser-Abdelfatah">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aser-Abdelfatah&theme=transparent" />
+  </a>
+  <a href="https://github.com/Aser-Abdelfatah">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aser-Abdelfatah&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Aser-Abdelfatah">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aser-Abdelfatah&theme=transparent" />
+  </a>
+  <a href="https://github.com/Aser-Abdelfatah">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aser-Abdelfatah&langs_count=10,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aser-Abdelfatah">
+    <img src="https://komarev.com/ghpvc/?username=Aser-Abdelfatah&color=blue&style=flat)" />
+  </a>
 </p>
