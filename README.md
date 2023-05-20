@@ -13,15 +13,15 @@
 
 <h3 align="left">Experience:</h3>
 
-**Pomona Artificial Intelligence Club (P-ai), Claremont, CA               January – May 2023**
+**Pomona Artificial Intelligence Club (P-ai), Claremont, CA**
 
-_Co-Product Manager of P-colleges Natural Language Processing Project_
+_Co-Product Manager of P-colleges Natural Language Processing Project_ &nbsp;&nbsp;&nbsp; **January – May 2023**
 
 - Lead seven college students in developing AI product that provides personalized college recommendations to high school students based on students' interests
 - Design algorithm to classify and visualize sentiments and emotions of college reviews to aggregate and present them in digestible way to customers
 - Co-manage data collection and technical development of word-vector clustering model
 
-_Machine Learning Project Team Member at P-laying\_soccer_             **September – December 2022**
+_Machine Learning Project Team Member at P-laying\_soccer_        &nbsp;&nbsp;&nbsp; **September – December 2022**
 
 - Designed, validated, and fine-tuned k-nearest neighbors and support vector machines models to predict outcome of soccer games with 81% accuracy
 - Identified and visualized 5 statistically significant metrics in winning teams by analyzing spatio-temporal match events dataset and investigated correlation vs causation using Analysis of Variance
