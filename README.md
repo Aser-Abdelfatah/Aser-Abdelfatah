@@ -41,10 +41,7 @@ _Machine Learning Project Team Member at P-laying\_soccer_        &nbsp;&nbsp;&n
   </a>
   <a href="https://github.com/Aser-Abdelfatah">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aser-Abdelfatah&theme=transparent" />
-  </a>
-  <a href="https://github.com/Aser-Abdelfatah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aser-Abdelfatah&langs_count=10,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+
 </p>
 
 <p align="center">
