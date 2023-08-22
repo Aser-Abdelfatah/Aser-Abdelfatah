@@ -2,7 +2,7 @@
 <h3 align="center">A computer science junior at Pomona College in Claremont, California</h3>
 
 - I’m currently working on **implementing a light-weight optical flow model for OpenCV computer vision library as part of Google Summer of Code.**
-- Also, I will be joining University of Lausanne Beucler Lab in Switzerland over the summer to do machine learning research, working on **designining unsupervised machine learning models to predict wildfires in Europe with end goal of devising dynamic wildfire early warning system**
+- Also, I joined University of Lausanne Beucler Lab in Switzerland over the summer to do machine learning research, working on **designining unsupervised machine learning models to predict wildfires in Europe with end goal of devising dynamic wildfire early warning system**
 - Previously, I designed a convolutional neural network to simulate human driving in a virtual environment with the help of Udacity open-source self-driving car simulator. Check out the [project repo!](https://github.com/Aser-Abdelfatah/Neural-Networks-for-Self-Driving-Cars)
 
 
