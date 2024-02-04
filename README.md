@@ -11,7 +11,7 @@
 - **Fellowships**: Google Computer Science Research Mentorship Program (CSRMP) Scholar
 - **Languages**: Python, C++, C, Java, R, SQL (MySQL and Postgres)
 - **Libraries** : TensorFlow, Keras, PyTorch, ONNX, OpenCV, scikit-learn, Natural Language Toolkit, pandas, NumPy
-- **Frameworks & Developer Tools**: Scrum, Git, Amazon Web Services (AWS), Docker, REST API, Junit, Linux, Anaconda, CUDA, Jupyter
+- **Frameworks & Developer Tools**: Scrum, Git, Amazon Web Services (AWS), Docker, REST API, Junit, Linux, Conda, CUDA, Jupyter
 <h3 align="left">Experience:</h3>
 
 **Product Manager Intern September, San Francisco, California** 
