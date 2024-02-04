@@ -1,17 +1,26 @@
 <h1 align="center">Hi, I'm Aser Atawya</h1>
 <h3 align="center">A computer science junior at Pomona College in Claremont, California</h3>
 
-- I’m currently working as a product manager intern for Avela EdTech start-up in San Francisco. 
+- I’m currently working as a software QA for Pomona College IT Services. 
 - Previously, I designed a convolutional neural network to simulate human driving in a virtual environment with the help of Udacity open-source self-driving car simulator. Check out the [project repo!](https://github.com/Aser-Abdelfatah/Neural-Networks-for-Self-Driving-Cars)
-- Also, I did Google Summer of Code 2023 for OpenCV, where I added Recurrent All-pairs Field Transforms (RAFT model) to OpenCV model zoo, optimized visualization module, and provided scripts for evaluation and examples in C++ and Python
+- Also, I did Google Summer of Code 2023 for OpenCV, where I added Recurrent All-pairs Field Transforms (RAFT model) to OpenCV model zoo, optimized visualization module, and provided scripts for evaluation and examples in C++ and Python. Check out the [project summary!](https://github.com/Aser-Abdelfatah/Google_Summer_of_Code_2023_OpenCV_Optical_Flow_Summary) 
 
 <h3 align="left">Skills and Coursework:</h3>
 
 - **Relevant Coursework**: Software Engineering, Neural Networks, Machine Learning Systems, Big Data, Algorithms, Data Structures, Computational Statistics, Statistical Theory, Probability, Combinatorics, and Linear Algebra
+- **Fellowships**: Google Computer Science Research Mentorship Program (CSRMP) Scholar
 - **Languages**: Python, C++, C, Java, R, SQL (MySQL and Postgres)
 - **Libraries** : TensorFlow, Keras, PyTorch, ONNX, OpenCV, scikit-learn, Natural Language Toolkit, pandas, NumPy
-- **Frameworks & Developer Tools**: Git, Docker, REST API, Junit, Linux, Anaconda, CUDA, Jupyter
+- **Frameworks & Developer Tools**: Scrum, Git, Amazon Web Services (AWS), Docker, REST API, Junit, Linux, Anaconda, CUDA, Jupyter
 <h3 align="left">Experience:</h3>
+
+**Product Manager Intern September, San Francisco, California** 
+
+_Avela EdTech Start-up_ &nbsp;&nbsp;&nbsp; **September – December 2023**
+- Led end-to-end QA testing for school-finder online platform, developing and executing rigorous test suites
+- Authored thorough product documentation including guides, training materials, and version release notes
+- Researched competitors to identify product differentiation opportunities and help improve product positioning
+- Planned UX improvements, developing readability feature, defining requirements, and following Agile methodology
 
 **Google Summer of Code 2023, Remote**
 
