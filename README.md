@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aser Atawya</h1>
-<h3 align="center">A computer science junior at Pomona College in Claremont, California</h3>
+<h3 align="center">A computer science senior at Pomona College in Claremont, California (graduating December 2024)</h3>
 
 - I’m currently working as a software QA for Pomona College IT Services. 
 - Previously, I designed a convolutional neural network to simulate human driving in a virtual environment with the help of Udacity open-source self-driving car simulator. Check out the [project repo!](https://github.com/Aser-Abdelfatah/Neural-Networks-for-Self-Driving-Cars)
@@ -7,14 +7,24 @@
 
 <h3 align="left">Skills and Coursework:</h3>
 
-- **Relevant Coursework**: Software Engineering, Neural Networks, Machine Learning Systems, Big Data, Algorithms, Data Structures, Computational Statistics, Statistical Theory, Probability, Combinatorics, and Linear Algebra
+- **Relevant Coursework**: Managing Complex Software Systems, Software Engineering, Neural Networks, Machine Learning Systems, Big Data, Algorithms, Data Structures, Computer Systems, Digital Elec. & Comp. Engineering, Computational Statistics, Statistical Theory, Probability, Combinatorics, and Linear Algebra
 - **Fellowships**: Google Computer Science Research Mentorship Program (CSRMP) Scholar
-- **Languages**: Python, C++, C, Java, R, SQL (MySQL and Postgres)
-- **Libraries** : TensorFlow, Keras, PyTorch, ONNX, OpenCV, scikit-learn, Natural Language Toolkit, pandas, NumPy
-- **Frameworks & Developer Tools**: Scrum, Git, Amazon Web Services (AWS), Docker, REST API, Junit, Linux, Conda, CUDA, Jupyter
+- **Languages**: Python, C++, C, Java, R, SQL (MySQL and Postgres), Verilog, Haskell
+- **Libraries**: TensorFlow, Keras, PyTorch, ONNX, OpenCV, scikit-learn, Natural Language Toolkit, pandas, NumPy
+- **Frameworks**: Flask, Tomcat, Ollama, Scrum, REST API, Junit, CUDA
+- **DevOps and Infrastructure**:  Git, Amazon Web Services (AWS), Docker, Linux, Conda, New Relic, PagerDuty
 <h3 align="left">Experience:</h3>
 
-**Product Manager Intern September, San Francisco, California** 
+
+**Software Engineer, Claremont, California** 
+
+_tm41m via Pomona Artificial Intelligence (P-ai)_ &nbsp;&nbsp;&nbsp; **February – April 2024**
+- Developed semantic translation system that generates microblogs with data analytics based on natural language
+- Built SQLCoder LLM infrastructure with Docker, Python database parsers, and database initialization seed script
+- Fine-tuned and deployed SQLCoder LLM using Ollama to convert natural language prompts into SQL queries
+
+
+**Product Manager Intern, San Francisco, California** 
 
 _Avela EdTech Start-up_ &nbsp;&nbsp;&nbsp; **September – December 2023**
 - Led end-to-end QA testing for school-finder online platform, developing and executing rigorous test suites
@@ -26,26 +36,25 @@ _Avela EdTech Start-up_ &nbsp;&nbsp;&nbsp; **September – December 2023**
 
 _Open-Source Contributor to OpenCV Computer Vision Library_ &nbsp;&nbsp;&nbsp; **May – September 2023**
 
-- Contributed to OpenCV library: adding RAFT transformer optical flow model to OpenCV model zoo 
-- Researched neural network optical flow models, defining evaluation metrics and benchmarking models on datasets 
-- Optimized optical flow visualization module and provided scripts for model evaluation and examples 
+- Contributed to OpenCV model zoo: merging 3 pull requests to add RAFT transformer optical flow model
+- Optimized optical flow visualization module and provided scripts for model evaluation, examples, and demo
 - Implemented and validated ONNX GatherElements matrix operator in OpenCV DNN module
-
+- Researched neural network optical flow models, defining evaluation metrics and benchmarking models on datasets
 
 **University of Lausanne Beucler Lab, Lausanne, Switzerland**
 
 _Machine Learning Researcher and ThinkSwiss Research Scholar_ &nbsp;&nbsp;&nbsp; **June – August 2023**
 
 - Designed random forest wildfire susceptibility maps with 89.9% accuracy and perfomred feature selection analysis
-- Visualized and identified 4 wildfire patterns, using self-organizing neural network and K-means
-- Analyzed spatio-temporal wildfire data, investigating impact of climatic and meteorological features
-- Created complete data pipeline, engineering 12 features and performing multivariate data imputation
+- Visualized and identified 4 wildfire patterns, using self-organizing neural network and K-means clustering
+- Analyzed spatio-temporal wildfire data, engineering 12 new features and performing multivariate data imputation
 
 **Autonomous-Driving Neural Network project** &nbsp;&nbsp;&nbsp; **April – May 2023**
 
--	Devised deep convolutional neural network to autonomously steer cars on Udacity self-driving car simulator using Keras and TensorFlow
--	Created end-to-end data pipeline from data collection using simulator, data augmentation to tackle imbalance and noise, and data pre-processing to model training, fine-tuning, and real-time deployment
--	Validated model performance through real-time deployment and evaluated loss against ResNet models
+-	Developed convolutional neural network to autonomously steer cars in real-time on Udacity self-driving simulator
+-	Validated model through real-time deployment and benchmarking loss in steering angle against ResNet models
+-	Engineered end-to-end data pipeline from data collection using simulator, data augmentation to tackle imbalance
+and noise, and image pre-processing to model training with CUDA, fine-tuning, deployment, and validation
 
   **Avvo, Claremont, California**
   
@@ -61,11 +70,6 @@ _Co-Product Manager of P-colleges Natural Language Processing Project_ &nbsp;&nb
 - Led 7 college students to develop AI product that provides personalized college recommendations to high school students
 - Designed emotion detection module to visualize, classify, and extract emotions from college reviews textual data
 - Managed development of word-vector clustering model to analyze qualitative factors, like college campus culture
-
-_Machine Learning Project Team Member at P-laying\_soccer_        &nbsp;&nbsp;&nbsp; **September – December 2022**
-
-- Designed, validated, and fine-tuned k-nearest neighbors and support vector machines models to predict outcome of soccer games with 81% accuracy
-- Identified and visualized 5 statistically significant metrics in winning teams by analyzing spatio-temporal match events dataset and investigated correlation vs causation using Analysis of Variance
 
 
 <h3 align="left">Connect with me:</h3>
