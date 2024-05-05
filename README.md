@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aser Atawya</h1>
 <h3 align="center">A Computer Science Senior at Pomona College in Claremont, California (graduating December 2024)</h3>
 
-- I’m currently working as a software QA for Pomona College IT Services. 
+- I’m currently looking for full-time software engineering internships in the fall (September - December) and full-time positions with start date in early 2025.
 - Previously, I designed a convolutional neural network to simulate human driving in a virtual environment with the help of Udacity open-source self-driving car simulator. Check out the [project repo!](https://github.com/Aser-Abdelfatah/Neural-Networks-for-Self-Driving-Cars)
 - Also, I did Google Summer of Code 2023 for OpenCV, where I added Recurrent All-pairs Field Transforms (RAFT model) to OpenCV model zoo, optimized visualization module, and provided scripts for evaluation and examples in C++ and Python. Check out the [project summary!](https://github.com/Aser-Abdelfatah/Google_Summer_of_Code_2023_OpenCV_Optical_Flow_Summary) 
 
