@@ -18,20 +18,21 @@
 
 <h3 align="left">Projects:</h3>
 
-**[Spotify for Parties: Music Sharing Web App](https://github.com//jacobymon/M-3/)** | Amazon Web Services, Linux, Tomcat, New Relic, PagerDuty, PostgreSQL &nbsp;&nbsp;&nbsp; **January – April 2024**
+**[Spotify for Parties: Music Sharing Web App](https://github.com//jacobymon/M-3/)** | Agile,  Python, Spotify API, Node.js, Flask, Threads &nbsp;&nbsp;&nbsp; **January – May 2024**
 - Co-developed 5000+ Lines-of-Code, 21-class Spotify web app that creates real-time, collaborative music sessions
-- Created and unit-tested classes that automate launch of backend and frontend components in separate threads, verification of system prerequisites, authentication of Spotify Account using API, and installation of dependencies
+- Created and unit-tested classes that automate multi-threaded launch of backend and frontend components, verification of system prerequisites, authentication of Spotify Account using API, and installation of dependencies
+- Led Agile process & SWE best practices, conducting requirements elicitation and developing scalable architecture
 <br> </br>
 
-**FakeFlickr** | Python, Spotify API, Node.js, Flask, Threads &nbsp;&nbsp;&nbsp; **January – May 2024**
+**FakeFlickr** | DevOps, Amazon Web Services, Linux, Tomcat, New Relic, PagerDuty, PostgreSQL  &nbsp;&nbsp;&nbsp; **January – April 2024**
 - Set up AWS infrastructure, PSQL, and SSL certificate to host mock Flickr Tomcat web app on HTTPS port
 - Achieved 90%+ uptime after setting up New Relic and PagerDuty for system monitoring and real-time alerting
-- Handled 1000 syntactic users & 10000 RPM with 0 errors after scaling service using AWS Load Balancer, AWS Relational Database Service, AWS Elastic File System, and 3 Linux instances
+- Handled 1000 syntactic users & 10000 RPM with 0 errors after scaling service using AWS Load Balancer, AWS Relational Database Service, AWS Elastic File System, and 3 EC-2 Linux instances
 <br> </br>
 
 **[Google Summer of Code 2023: OpenCV DNN Optical Flow Model](https://github.com/Aser-Abdelfatah/Google_Summer_of_Code_2023_OpenCV_Optical_Flow_Summary)** | C++, Python, OpenCV, ONNX &nbsp;&nbsp;&nbsp; **May – August 2023**
-- Contributed to OpenCV model zoo: merging 3 pull requests to add RAFT transformer optical flow model
-- Optimized optical flow visualization module and provided scripts for model evaluation, examples, and demo
+- Optimized computational efficiency of motion detection in OpenCV, library downloaded 18 million times
+- Added RAFT transformer optical flow model, visualization module, evaluation scripts, & demo after merging 3 pull requests
 - Implemented and validated ONNX GatherElements matrix operator in OpenCV DNN module
 - Researched neural network optical flow models, defining evaluation metrics and benchmarking models on datasets
 <br> </br>
@@ -46,18 +47,16 @@
 **Software Engineer, Claremont, California** 
 
 _tm41m via Pomona Artificial Intelligence (P-ai)_ &nbsp;&nbsp;&nbsp; **February – April 2024**
-- Developed backend of semantic translation system to generate data analytics using natural language
+- Developed large language model backend of semantic translator to create data analytics using natural language
 - Built SQLCoder LLM infrastructure with Docker, Python database parsers, and database initialization seed script
 - Fine-tuned and deployed SQLCoder LLM using Ollama to convert natural language prompts into SQL queries
 <br> </br>
 
-**Product Manager Intern, San Francisco, California** 
+**Software Quality Assurance, Claremont, California** 
 
-_Avela EdTech Start-up_ &nbsp;&nbsp;&nbsp; **September – December 2023**
-- Led end-to-end QA testing for school-finder online platform, developing and executing rigorous test suites
-- Authored thorough product documentation including guides, training materials, and version release notes
-- Researched competitors to identify product differentiation opportunities and help improve product positioning
-- Planned UX improvements, developing readability feature, defining requirements, and following Agile methodology
+_Pomona College IT Services_ &nbsp;&nbsp;&nbsp; **February – May 2024**
+- Improved system reliability by executing 500+ test cases on Sakai Learning Management Software
+- Built Python internal tool to convert Box Notes to HTML, streamlining operations and increasing efficiency
 <br> </br>
 
 
@@ -67,7 +66,7 @@ _University of Lausanne Beucler Lab for Data-Driven Atmospheric & Water Dynamics
 
 - Designed random forest wildfire susceptibility maps with 89.9% accuracy and perfomred feature selection analysis
 - Visualized and identified 4 wildfire patterns, using self-organizing neural network and K-means clustering
-- Analyzed spatio-temporal wildfire data, engineering 12 new features and performing multivariate data imputation
+- Engineered 12 new features from spatio-temporal wildfire data and performed multivariate data imputation
 <br> </br>
 
 
@@ -80,9 +79,9 @@ _Avvo_ &nbsp;&nbsp;&nbsp; **February – May 2023**
 - Implemented advanced text matching algorithms to overcome discrepancies in data and varied string formatting
    <br> </br>
 
-**Product Manager of P-colleges Natural Language Processing Project, Claremont, CA**
+**Software Project Manager, Claremont, California**
 
-_Pomona Artificial Intelligence (P-ai)_ &nbsp;&nbsp;&nbsp; **January – May 2023**
+_P-ai at the Claremont Colleges_ &nbsp;&nbsp;&nbsp; **January – May 2023**
 
 - Led 7 college students to develop AI product that provides personalized college recommendations to high school students
 - Designed emotion detection module to visualize, classify, and extract emotions from college reviews textual data
