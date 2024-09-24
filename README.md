@@ -3,7 +3,7 @@
 
 - I’m currently looking for full-time software engineering/data science positions with start date in early 2025.
 - This fall, I'm doing a full-time machine learning internship at Lu, an AI startup based in Los Angeles. I'm working on optimizng a chatbot, working with RAGs and benchmarking LLMs for domain use case. 
-- Over the summer, I conducted TinyML research at Autonomous Robotics and Complex Systems Lab at Pomona College, working on deploying deep neural networks on edge devices, such as Nvidia Jetson Nano!
+- Over the summer, I conducted TinyML research at Autonomous Robotics and Complex Systems Lab at Pomona College, working on deploying deep neural networks on edge devices, such as Nvidia Jetson Nano. Check out the [research abstract!](https://drive.google.com/file/d/1dg3SpyYLOdzz47ZjXUdEkgBR447n2CYF/view)
 - Last semester, I co-developed a 5000+ Lines-of-Code, 21-class music sharing web app that creates real-time, collaborative music sessions using Spotify web API. Check out the [project repo!](https://github.com//jacobymon/M-3/)
 - Last year, I designed a complete convolutional neural network data pipeline to simulate human driving in a virtual environment with the help of Udacity self-driving car simulator. Check out the [project repo!](https://github.com/Aser-Abdelfatah/Neural-Networks-for-Self-Driving-Cars)
 - Also, I did Google Summer of Code 2023 for OpenCV, where I merged 3 pull requests, adding Recurrent All-pairs Field Transforms (RAFT) DNN optical flow model to OpenCV model zoo. Also, I optimized visualization module and provided scripts for evaluation and examples in C++ and Python. Check out the [project summary!](https://github.com/Aser-Abdelfatah/Google_Summer_of_Code_2023_OpenCV_Optical_Flow_Summary) 
