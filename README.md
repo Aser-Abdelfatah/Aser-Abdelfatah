@@ -1,20 +1,21 @@
 <h1 align="center">Hi, I'm Aser Atawya</h1>
 <h3 align="center">A Computer Science Senior at Pomona College in Claremont, California (graduating December 2024)</h3>
 
-- I’m currently looking for full-time software engineering internships in the fall (September - December) and full-time positions with start date in early 2025.
-- This Summer, I will be doing tiny Machine Learning research at Autonomous Robotics and Complex Systems Lab at Pomona College, working on quantizing deep neural networks and deploying them on edge devices!
+- I’m currently looking for full-time software engineering/data science positions with start date in early 2025.
+- This fall, I'm doing a full-time machine learning internship at Lu, an AI startup based in Los Angeles. I'm working on optimizng a chatbot, working with RAGs and benchmarking LLMs for domain use case. 
+- Over the summer, I conducted TinyML research at Autonomous Robotics and Complex Systems Lab at Pomona College, working on deploying deep neural networks on edge devices, such as Nvidia Jetson Nano!
 - Last semester, I co-developed a 5000+ Lines-of-Code, 21-class music sharing web app that creates real-time, collaborative music sessions using Spotify web API. Check out the [project repo!](https://github.com//jacobymon/M-3/)
 - Last year, I designed a complete convolutional neural network data pipeline to simulate human driving in a virtual environment with the help of Udacity self-driving car simulator. Check out the [project repo!](https://github.com/Aser-Abdelfatah/Neural-Networks-for-Self-Driving-Cars)
 - Also, I did Google Summer of Code 2023 for OpenCV, where I merged 3 pull requests, adding Recurrent All-pairs Field Transforms (RAFT) DNN optical flow model to OpenCV model zoo. Also, I optimized visualization module and provided scripts for evaluation and examples in C++ and Python. Check out the [project summary!](https://github.com/Aser-Abdelfatah/Google_Summer_of_Code_2023_OpenCV_Optical_Flow_Summary) 
 
 <h3 align="left">Skills and Coursework:</h3>
 
-- **Coursework**: Managing Complex Software Systems, Software Engineering, Neural Networks, Machine Learning Systems, Big Data, Algorithms, Data Structures, Computer Systems, Digital Elec. & Comp. Engineering, Computational Statistics, Statistical Theory, Probability, Combinatorics, and Linear Algebra
+- **Coursework**: Managing Complex Software Systems, Software Engineering, Neural Networks, Machine Learning Systems, Big Data, Algorithms, Computer Systems, Digital Elec. & Comp. Engineering, Computational Statistics, Statistical Theory, Probability, Combinatorics, and Linear Algebra
 - **Fellowships**: Google Computer Science Research Mentorship Program (CSRMP) Scholar
 - **Programming Languages**: Python, C++, C, Java, R, SQL (MySQL and Postgres), Verilog, Haskell
 - **Libraries**: TensorFlow, Keras, PyTorch, ONNX, OpenCV, scikit-learn, Natural Language Toolkit, pandas, NumPy
-- **Frameworks**: Flask, Tomcat, Ollama, Scrum, REST API, Junit, CUDA
-- **DevOps and Infrastructure**:  Git, Amazon Web Services (AWS), Docker, Linux, Conda, New Relic, PagerDuty
+- **Frameworks \& Platforms**: Nvidia Jetson, Flask, Tomcat, Ollama, Scrum, REST API, Junit, CUDA, Wandb
+- **DevOps and Infrastructure**: Git, Amazon Web Services (AWS), Docker, Linux, Conda, New Relic, PagerDuty
 
 <h3 align="left">Projects:</h3>
 
@@ -44,10 +45,25 @@
 <br> </br>
 <h3 align="left">Experience:</h3>
 
+**Machine Learning Intern, Los Angeles, California** 
+
+_Lu_ &nbsp;&nbsp;&nbsp; **Septemeber 2024 - Present**
+- Optimize real-time interaction of gaming assistant chatbot using RAG, prompt chaining, and context embedding
+- Engineer performance benchmarks tailored to business use cases, facilitating data-driven improvement
+<br> </br>
+
+
+**Neural Networks Research Assistant, Claremont, California** 
+
+_Autonomous Robotics and Complex Systems Lab at Pomona College_ &nbsp;&nbsp;&nbsp; **June – August 2024**
+- Conducted TinyML research, deploying deep neural networks on Nvidia JetBot to build an autonomous robot
+- Developed face tracking robot, deploying computer vision at the edge on XIAO MCU and Grove AI Vision module
+<br> </br>
+
 **Software Engineer, Claremont, California** 
 
 _tm41m via Pomona Artificial Intelligence (P-ai)_ &nbsp;&nbsp;&nbsp; **February – April 2024**
-- Developed large language model backend of semantic translator to create data analytics using natural language
+- Developed large language model backend of semantic translator to create data analytics using natural language prompts
 - Built SQLCoder LLM infrastructure with Docker, Python database parsers, and database initialization seed script
 - Fine-tuned and deployed SQLCoder LLM using Ollama to convert natural language prompts into SQL queries
 <br> </br>
