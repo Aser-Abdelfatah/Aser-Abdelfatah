@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aser Atawya</h1>
-<h3 align="center">A Computer Science Senior at Pomona College in Claremont, California (graduating December 2024)</h3>
+<h3 align="center">A Computer Science Graduate! (December 2024 Pomona College Alum)</h3>
 
 - I’m currently looking for full-time software engineering/data science positions with start date in early 2025.
 - This fall, I'm doing a full-time machine learning internship at Lu, an AI startup based in Los Angeles. I'm working on optimizng a chatbot, working with RAGs and benchmarking LLMs for domain use case. 
@@ -49,15 +49,18 @@
 
 _Lu_ &nbsp;&nbsp;&nbsp; **Septemeber 2024 - Present**
 - Optimize real-time interaction of gaming assistant chatbot using RAG, prompt chaining, and context embedding
-- Engineer performance benchmarks tailored to business use cases, facilitating data-driven improvement
+- Engineer 4 performance benchmarks tailored to business use cases, facilitating data-driven improvement
+- Improve data annotation efficiency by 70+% by building full-stack data annotation webapp and dashboards
+- Automate chatbot evaluation & reduce 90+% manual data evaluation time by developing LLM-as-a-judge agent
 <br> </br>
 
 
 **Neural Networks Research Assistant, Claremont, California** 
 
 _Autonomous Robotics and Complex Systems Lab at Pomona College_ &nbsp;&nbsp;&nbsp; **June – August 2024**
-- Conducted TinyML research, deploying deep neural networks on Nvidia JetBot to build an autonomous robot
+- Deployed deep neural networks on Nvidia JetBot robot to enable autonomous indoor pathfinding using reinforcement learning
 - Developed face tracking robot, deploying computer vision at the edge on XIAO MCU and Grove AI Vision module
+- Presented research at Southern California CS REU Symposium, Southern California Robotics Symposium, and Pomona College Symposium
 <br> </br>
 
 **Software Engineer, Claremont, California** 
