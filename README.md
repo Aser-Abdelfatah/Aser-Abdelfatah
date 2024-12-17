@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aser Atawya</h1>
-<h3 align="center">A Computer Science Graduate! (December 2024 Pomona College Alum)</h3>
+<h3 align="center">A Pomona College Computer Science Graduate! (December 2024)</h3>
 
 - I’m currently looking for full-time software engineering/data science positions with start date in early 2025.
 - This fall, I'm doing a full-time machine learning internship at Lu, an AI startup based in Los Angeles. I'm working on optimizng a chatbot, working with RAGs and benchmarking LLMs for domain use case. 
